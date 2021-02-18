@@ -1,13 +1,2 @@
-## collapsible markdown?
-
-<details><summary>CLICK ME</summary>
-<p>
-
-#### yes, even hidden code blocks!
-
-```python
-print("hello world!")
-```
-
-</p>
-</details>
+#ultraviolet grasslands and the black hack
+Custom rules to use with The Black Hack and UVG, by [codeliches](https://www.twitter.com/codeliches)
