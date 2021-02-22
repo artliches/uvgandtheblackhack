@@ -19,6 +19,7 @@ Every player at the table takes turns roll 3d6 and adding the numbers together t
 If any of the generated numbers are 14+, the next number is automatically a 7. The players when continue to roll the rest of the numbers normally.
 
 Once all six of the numbers are generated and the stat array is filled, the players can then individually swap any two of the numbers.
+[back to top](#table-of-contents)
 
 ## A Healthy Start
 All characters start level one with 10 Life. Life growth afterwards is decided based on your class choice.
