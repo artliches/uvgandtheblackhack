@@ -2,12 +2,15 @@
 Custom rules to use with The Black Hack and UVG, by [codeliches](https://www.twitter.com/codeliches)
 
 ## Table of Contents
-- [Everyone is unique/No one is unique](#everyone-is-unique/no-one-is-unique)
-- [A Healthy Start](#a-healthy-start)
-- [Blood Magic & Biocorruption](#blood-magic-&-biocorruption)
-- [Creating the Canon](#creating-the-canon)
+- [Creating a Hero](#creating-a-hero)
+  - [Everyone is unique/No one is unique](#everyone-is-unique/no-one-is-unique)
+  - [A Healthy Start](#a-healthy-start)
+- [Playing the Game](#playing-the-game)
+  - [Blood Magic & Biocorruption](#blood-magic-&-biocorruption)
+  - [Creating the Canon](#creating-the-canon)
 
-## Everyone is unique/No one is unique
+## Creating a Hero
+### Everyone is unique/No one is unique
 Every player at the table takes turns roll 3d6 and adding the numbers together to form the stat spread:
 * **S**trength: physical power, melee attacks and melee defense
 * **E**ndurance: resiliance and physical well-being
@@ -22,13 +25,13 @@ Once all six of the numbers are generated and the stat array is filled, the play
 
 [back to top](#table-of-contents)
 
-## A Healthy Start
+### A Healthy Start
 All characters start level one with 10 Life. Life growth afterwards is decided based on your class choice.
 
 [back to top](#table-of-contents)
 
-
-## Blood Magic & Biocorruption
+## Playing the Game
+### Blood Magic & Biocorruption
 Casting magic of any kind requires the caster to pay a price in Life.
 
 The cost of a spell is equal to double the spell's level (**cost = spellLevel * 2**).
@@ -43,7 +46,7 @@ If they cast the spell more than once per session, then they have disadvantage o
 [back to top](#table-of-contents)
 
 
-## Creating the Canon
+### Creating the Canon
 Exploring the UVG is about discovering things. To keep with that spirit, whenever a player/character comes across something new or declares something new about the world (such as seeing a new animal or landmark, or talking about their god), every player must create one rumor about the subject.
 
 Once everyone has stated one rumor about the subject, the players can then soft veto any one rumor, allowing the player who was veto'd to create a new rumor. The guide can also veto any or all of the rumors.
