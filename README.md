@@ -1,6 +1,9 @@
 # ULTRAVIOLET GRASSLANDS AND THE BLACK HACK
 Custom rules to use with The Black Hack and UVG, by [codeliches](https://www.twitter.com/codeliches)
 
+## Table of Contents
+[Everyone is unique/No one is unique](#Everyone is unique/No one is unique)
+
 ## Everyone is unique/No one is unique
 Every player at the table takes turns roll 3d6 and adding the numbers together to form the stat spread:
 * **S**trength: physical power, melee attacks and melee defense
