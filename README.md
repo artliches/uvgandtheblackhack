@@ -19,10 +19,14 @@ Every player at the table takes turns roll 3d6 and adding the numbers together t
 If any of the generated numbers are 14+, the next number is automatically a 7. The players when continue to roll the rest of the numbers normally.
 
 Once all six of the numbers are generated and the stat array is filled, the players can then individually swap any two of the numbers.
+
 [back to top](#table-of-contents)
 
 ## A Healthy Start
 All characters start level one with 10 Life. Life growth afterwards is decided based on your class choice.
+
+[back to top](#table-of-contents)
+
 
 ## Blood Magic & Biocorruption
 Casting magic of any kind requires the caster to pay a price in Life.
@@ -36,6 +40,9 @@ Any time a character cast a spell, they risk biocorruption. Once the spell is re
 
 If they cast the spell more than once per session, then they have disadvantage on this test.
 
+[back to top](#table-of-contents)
+
+
 ## Creating the Canon
 Exploring the UVG is about discovering things. To keep with that spirit, whenever a player/character comes across something new or declares something new about the world (such as seeing a new animal or landmark, or talking about their god), every player must create one rumor about the subject.
 
@@ -44,3 +51,6 @@ Once everyone has stated one rumor about the subject, the players can then soft 
 Players can veto once per session, the guide can veto any number of times (**within reason, don't be a jerk**).
 
 Once all the rumors are agreed upon, the guide will create a rumor card of that subject and add it to the rumor deck. **Players should make sure to pester the guide about this if they fail to do so.**
+
+
+[back to top](#table-of-contents)
