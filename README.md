@@ -23,6 +23,8 @@ Every player at the table takes turns roll 3d6 and adding the numbers together t
 
 If any of the generated numbers are 14+, the next number is automatically a 7. The players when continue to roll the rest of the numbers normally.
 
+The players can then decide if they want to "mulligan" the array, choosing to reroll everything again. **However!** This can only happen once, and they must accept the results of the new array, even if it's *far* worse!
+
 Once all six of the numbers are generated and the stat array is filled, the players can then individually swap any two of the numbers.
 
 [back to top](#table-of-contents)
