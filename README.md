@@ -30,6 +30,16 @@ All characters start level one with 10 Life. Life growth afterwards is decided b
 
 [back to top](#table-of-contents)
 
+### Getting Better
+When a character earns enough XP to level up, they must interact with NPCs in the UVG and share a number of Rumors equal to the level that they wish to advance to (ex: level 9 = share nine rumors).
+
+Once rumors are shared this way, those rumors cannot be shared again to level up. After all, who wants to hear the same story over and over again?
+
+Rumors are created by the players during play. See [Creating the Canon](#creating-the-canon)
+
+[back to top](#table-of-contents)
+
+
 ## Playing the Game
 ### Blood Magic & Biocorruption
 Casting magic of any kind requires the caster to pay a price in Life.
