@@ -5,6 +5,8 @@ Custom rules to use with The Black Hack and UVG, by [codeliches](https://www.twi
 - [Creating a Hero](#creating-a-hero)
   - [Everyone is unique/No one is unique](#everyone-is-unique/no-one-is-unique)
   - [A Healthy Start](#a-healthy-start)
+  - [Getting Better](#getting-better)
+  - [You Gotta Earn the Weird](#you-gotta-earn-the-weird)
 - [Playing the Game](#playing-the-game)
   - [Blood Magic & Biocorruption](#blood-magic-&-biocorruption)
   - [Creating the Canon](#creating-the-canon)
@@ -36,6 +38,15 @@ When a character earns enough XP to level up, they must interact with NPCs in th
 Once rumors are shared this way, those rumors cannot be shared again to level up. After all, who wants to hear the same story over and over again?
 
 Rumors are created by the players during play. See [Creating the Canon](#creating-the-canon)
+
+[back to top](#table-of-contents)
+
+### You Gotta Earn the Weird
+The UVG is filled with all sorts of fantastical races, but for completely new games of UVG & The Black Hack, all characters start as Rainbowlanders.
+
+In order to "unlock" new races (TODO, change that wording), the players/characters must interact with these denezins of the UVG, perform tasks for them, steal their secrets from them, or be blessed by them. How these denezins are unlocked for play is ultimatly up to the guide and the players to decide in Session 0, but some ideas can be found here (TODO, link denezin quests).
+
+This idea of unlocking new denezins as a result of play is inspired by [Dead Halt by Zonware](https://zonware.itch.io/deadhalt)!
 
 [back to top](#table-of-contents)
 
